@@ -1,0 +1,1 @@
+export const config = { apiKey: 'AIza...', projectId: 'andid-hryemen' };
